@@ -23,5 +23,9 @@ Wenn das nicht geklappt hat, weiß der Entwickler (in diesem Fall du), dass ein 
 > Das Problem lässt sich zwar umgehen (z.B. mit `python3 "task_1_1 extra.py"), da das aber nur Umstände macht und eine Fehlerquelle ist vermeidet man Leerzeichen einfach.
 
 ## Task 1.2 - Grundlegene Syntax 
+In `task_1_2_overview.py` findest du eine Übersicht über einige Python Syntax Elemente. Du kannst hier immer wieder nachschauen wenn du was vergisst.
+`task_1_2_1.py` enthält deine Aufgabe. Du sollst alle Zahlen von 0 bis -100 die glatt durch 2 teilbar sind auf der Kommandozeile ausgeben lassen.
+Denk dran, dass du den Code nur zwischen den Markierungen ändern darfst!
+In `task_1_2_2.py` gilt es ein Dictionary mit den Zahlen von 0 bis 10 (inclusive!) zu füllen. Die keys sind dabei egal.
 
 ## Task 1.3 - PYTHONPATH, Unterprogramme und 
