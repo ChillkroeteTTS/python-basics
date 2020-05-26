@@ -18,7 +18,8 @@ for number in eins_bis_hundert:
     else:
         pass # pass ist in Python ein Platzhalter. DU kannst es benutzten wenn du einen Codeblock erst später befüllen möchtest. In diesem Fall hätte das else und das pass auch komplett weggelassen werden können. Der Effekt wäre derselbe.
 
-# Gib alle durch 2 teilbaren Zahlen von 0 bis -100 aus
+# Gib alle durch 2 teilbaren Zahlen von 0 bis -100 aus, ohne die range Methode zu benutzen!
+# Verbotene Elemente: range()
 # ==================================
 for number in eins_bis_hundert:
 # ==================================
