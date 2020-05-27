@@ -20,7 +20,7 @@ Wenn das nicht geklappt hat, weiß der Entwickler (in diesem Fall du), dass ein 
 
 > (i) Info: Du wirst dich vielleicht wundern, warum Programmierer in ihren Dateinamen nie Leerzeichen benutzen. 
 > Versuche das Programm task_1_1 extra.py auszuführen. Du wirst merken, dass das nicht ohne weiteres klappt. Der Computer kann nicht unterscheiden, ob das Leerzeichen zum Dateinamen gehört, oder ob du ihm weitere Anweisungen geben willst.
-> Das Problem lässt sich zwar umgehen (z.B. mit `python3 "task_1_1 extra.py"), da das aber nur Umstände macht und eine Fehlerquelle ist vermeidet man Leerzeichen einfach.
+> Das Problem lässt sich zwar umgehen (z.B. mit `python3 "task_1_1 extra.py"`), da das aber nur Umstände macht und eine Fehlerquelle ist vermeidet man Leerzeichen einfach.
 
 ## Task 1.2 - Grundlegene Syntax 
 In `task_1_2_overview.py` findest du eine Übersicht über einige Python Syntax Elemente. Du kannst hier immer wieder nachschauen wenn du was vergisst.
